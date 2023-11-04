@@ -30,6 +30,7 @@ I've had the privilege to contribute to the following repositories:
 ## 📫 Let's Connect
 
 - LinkedIn: [Mouhib-hero](https://www.linkedin.com/in/benjemaamouhib19/)
+- Personal Website: [UniversityStuff]https://mouhib-hero.github.io/univstuff/
 - Portfolio: Soon.
 <!--[Your Portfolio Website](link-to-portfolio)-->
 
